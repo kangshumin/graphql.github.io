@@ -229,7 +229,7 @@ module.exports = ({ page, section }) =>
         {/*Illustration of a type IDL following a query by line]*/}
         {/*Under: a server <-> client (Capabilities, Requirements)]?*/}
         <p>
-          GraphQL APIs are organized in terms of types and fields,
+          kark# GraphQL APIs are organized in terms of types and fields,
           not endpoints. Access the full capabilities of your data from a
           single endpoint. GraphQL uses types to ensure Apps only ask for
           what&rsquo;s possible and provide clear and helpful errors. Apps can
